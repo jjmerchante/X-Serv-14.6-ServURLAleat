@@ -23,6 +23,7 @@ repo_files = [
     'webapp.py',
     'check.py',
     'README.md',
+    'LICENSE',
     '.gitignore',
     '.git'
     ]
